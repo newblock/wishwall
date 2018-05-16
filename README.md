@@ -1,1 +1,1 @@
-wishwall.github.io
+wishwall project
